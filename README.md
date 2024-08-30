@@ -6,6 +6,7 @@ Columns:
 
 location: The area or locality where the property is located.
 size: The configuration of the property (e.g., 2 BHK, 4 Bedroom).
+
 total_sqft: The total area of the property in square feet.
 bath: The number of bathrooms in the property.
 price: The total price of the property (presumably in lakhs or another currency unit).
